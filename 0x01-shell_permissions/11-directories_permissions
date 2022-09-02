@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo find /alx-system_engineering-devops/0x01-shell_permissions -type d chmod 777 {}
+chmod -R 755
